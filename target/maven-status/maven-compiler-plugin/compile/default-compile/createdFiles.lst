@@ -1,0 +1,6 @@
+com/hellokoding/springboot/restful/StockAPI.class
+com/hellokoding/springboot/restful/StockController.class
+com/hellokoding/springboot/restful/StockRepository.class
+com/hellokoding/springboot/restful/Stock.class
+com/hellokoding/springboot/restful/StockService.class
+com/hellokoding/springboot/restful/Application.class
